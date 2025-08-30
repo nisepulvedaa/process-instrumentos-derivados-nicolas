@@ -1,4 +1,5 @@
-nombre_proceso="instrumentos-derivados-slim-nicolas" #nombre-proceso
+nombre_evaluador="nicolas"
+nombre_proceso="instrumentos-derivados-nicolas" #nombre-proceso
 version_arquetipo_raw="slim" #slim|full
 periodicidad="diario"# diario|mensual|esporadico
 ##ORIGIN
